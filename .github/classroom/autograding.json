@@ -25,7 +25,7 @@
       "setup": "",
       "run": "./soal-02",
       "input": "3\r\n10\r\n0.002",
-      "output": "59.292",
+      "output": "59.279",
       "comparison": "included",
       "timeout": 1,
       "points": 10
@@ -35,7 +35,7 @@
       "setup": "",
       "run": "./soal-02",
       "input": "10\r\n25\r\n0.005",
-      "output": "141.786",
+      "output": "141.739",
       "comparison": "included",
       "timeout": 1,
       "points": 10
@@ -55,7 +55,7 @@
       "setup": "",
       "run": "./soal-02",
       "input": "13.3\r\n21.3\r\n0.005",
-      "output": "74.786",
+      "output": "74.741",
       "comparison": "included",
       "timeout": 1,
       "points": 10
@@ -65,7 +65,7 @@
       "setup": "",
       "run": "./soal-02",
       "input": "10.7\r\n10.8\r\n0.001",
-      "output": "0.975",
+      "output": "0.965",
       "comparison": "included",
       "timeout": 1,
       "points": 10
@@ -75,7 +75,7 @@
       "setup": "",
       "run": "./soal-02",
       "input": "36\r\n50\r\n0.05",
-      "output": "137.867",
+      "output": "137.371",
       "comparison": "included",
       "timeout": 1,
       "points": 10
@@ -95,7 +95,7 @@
       "setup": "",
       "run": "./soal-02",
       "input": "19\r\n27\r\n0.05",
-      "output": "77.025",
+      "output": "76.553",
       "comparison": "included",
       "timeout": 1,
       "points": 10
