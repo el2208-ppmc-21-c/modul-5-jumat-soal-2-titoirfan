@@ -16,7 +16,7 @@
 float jumlahriemann(float partisi, float atas, float bawah){
     float num, denum;
     //kasus basis partisi==atas
-    if(atas<=bawah){
+    if(atas<=bawah+partisi){
         num=10*pow(atas,2)-7*atas*sin(atas);
         denum=pow(atas,2)+atas+1;
 
